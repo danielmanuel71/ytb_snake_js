@@ -1,6 +1,6 @@
-export default class Apple {
+export default class bannana {
     constructor(snakes, size, width, height) {
-        this.color = "pink";
+        this.color = "red";
         this.size = size;
         this.width = width;
         this.height = height;
